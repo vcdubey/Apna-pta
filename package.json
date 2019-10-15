@@ -1,0 +1,19 @@
+{
+  "name": "apnapta",
+  "version": "1.0.0",
+  "description": "Provide the details of locations",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vivek chand dubey",
+  "license": "ISC",
+  "dependencies": {
+    "btoa": "^1.2.1",
+    "express": "^4.17.1",
+    "promise": "^8.0.3",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "simple-oauth2": "^2.5.1"
+  }
+}
