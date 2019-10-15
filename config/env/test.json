@@ -1,0 +1,10 @@
+{
+    "oauth" : {
+        "client_id": "SE7boj90l1c7VZl_vYsdgAJ_StI5qT21elCBREBtb5EepqkRKHq5uMFPTS19rVbTJi5BC0t6I5xmGuHsup3dvrlAMu6IoaSq",
+        "client_secret": "PrmntVCPnA0kA75vXZBj4jZDykafOIQ96CloJnB7EtLZCWJFgdtOecZfhkrzZkVSjjJtphIwsL3_MIyKnJ6_60vkWlE8E0ixGvEURIyrDLE=",
+        "access_token_url": "https://outpost.mapmyindia.com/api/security/oauth/token"
+    },
+    "apiKey": "4tcndozy4pe9j8py2sil2wjx8zfiicqx",
+    "mapBaseURL": "https://apis.mapmyindia.com/advancedmaps/v1/",
+    "nearByBaseURL": "https://atlas.mapmyindia.com/api/places/nearby/json?"
+}
